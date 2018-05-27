@@ -36,7 +36,7 @@ LoE's technology is simple but its goal is ambitious: to shake companies like Bl
 
 Many projects attempt to boil the ocean but wind up delivering one-time experiments. LoE is a project that could be implemented and compete with AAA games **today**.
 
-If decentralized games become actually playable, players will start playing them. And if players start playing them, companies will notice. They will start exploring that area too, and the market will be forever changed. From that day forward, all games would have elements of decentralization, players actually owning their accounts.
+If decentralized games become actually playable, players will start playing them. And if players start playing them, companies will notice. They will start exploring that area too, and the market will be forever changed. From that day forward, all games will have elements of decentralization, players actually owning their accounts.
 
 ## Landscape
 
