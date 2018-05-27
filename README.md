@@ -8,7 +8,7 @@ The Legend of Ether is a Proof of Concept showcasing how a massively online mult
 
 ## Problem
 
-Current decentralized games that run on Ethereum only allow the user to make a couple of choices. They then play themselves, the "player" merely watching. This is no fun!
+Current decentralized games that run on Ethereum only allow the user to make a couple of choices. They then play themselves, the "player" merely watching. That is no fun!
 
 For a game to be actually playable, the first and most important thing is for players to be able to walk around. To see other players walking around. To interact with the environment, with objects and with other players.
 
